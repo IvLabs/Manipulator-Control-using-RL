@@ -1,0 +1,1 @@
+Trained rl_model_1885480_steps.zip for 325000 steps (50ep) with goal [0.3,-0.5,1.1]

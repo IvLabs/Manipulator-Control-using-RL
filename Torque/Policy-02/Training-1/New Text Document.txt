@@ -1,0 +1,1 @@
+Trained a new model for 1300000+650000 steps with goal loc=[0.4,-0.2,1.1]

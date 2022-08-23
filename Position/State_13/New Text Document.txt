@@ -1,0 +1,6 @@
+Trained for position_control
+Arm learns in around 400000steps
+
+States: 7 Joint loc
+	3 rel loc6
+	3 loc6 vel

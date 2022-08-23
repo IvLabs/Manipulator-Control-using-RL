@@ -1,0 +1,4 @@
+State space:
+		7 joint loc
+		7 join ang vel
+		3 rew loc
