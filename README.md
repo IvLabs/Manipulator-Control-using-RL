@@ -162,7 +162,7 @@ reward1 = -1*np.linalg.norm(np.array(eeloc)-np.array(self.goal))
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/LvUnOAL.gif" width="380" height="390" align="Center">
+<img src="https://i.imgur.com/LvUnOAL.gif" width="350" height="350" align="Center">
 <br>
 Rendering has a delay of 0.1 sec after every action for better visualisation 
 </p>
