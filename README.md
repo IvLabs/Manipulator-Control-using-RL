@@ -162,7 +162,7 @@ reward1 = -1*np.linalg.norm(np.array(eeloc)-np.array(self.goal))
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/LvUnOAL.gif" width="350" height="350" align="Center">
+<img src="https://i.imgur.com/vKAJn2B.gif" width="350" height="350" align="Center">
 <br>
 Rendering has a delay of 0.1 sec after every action for better visualisation
 </p>
@@ -181,7 +181,7 @@ for ang_vel in ang_vel_joints:
 ```
 The Euclidean Distance based reward as defined above was untouched.
 
-### Results and Simulation
+#### Results and Simulation
 
 <p align="center">
 <img src="https://i.imgur.com/cNrx5r4.png" width="650" height="450" align="Center">
