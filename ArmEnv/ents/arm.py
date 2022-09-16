@@ -48,7 +48,7 @@ class Arm:
         ## CHANGE
 
         obs = []
-        self.goal = [0.3, -0.5, 1.1]
+        #self.goal = [0.3, 0, 0.9]
         #self.goal = [0.4,0.4,1.1]
         for i in self.joints:
             pos,vel,_,_ = p.getJointState(self.arm,i,physicsClientId = self.client)
