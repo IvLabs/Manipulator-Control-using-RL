@@ -162,7 +162,7 @@ reward1 = -1*np.linalg.norm(np.array(eeloc)-np.array(self.goal))
 </p>
 
 <p align="center">
-<img src="https://i.imgur.com/vKAJn2B.gif" width="350" height="350" align="Center">
+<img src="https://github.com/IvLabs/Manipulator-Control-using-RL/blob/master/Images/arm_ED_gif.gif" width="350" height="350" align="Center">
 <br>
 Rendering has a delay of 0.1 sec after every action for better visualisation
 </p>
